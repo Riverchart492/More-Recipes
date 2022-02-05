@@ -1,0 +1,19 @@
+{
+	"type": "crafting_shaped",
+	"pattern": ["111", "232", "2 2"],
+	"key": {
+		"1": {
+			"item": "minecraft:stick"
+		},
+		"2": {
+			"item": "minecraft:cobblestone"
+		},
+		"3": {
+			"item": "minecraft:gold_block"
+		}
+	},
+	"result": {
+		"item": "minecraft:bell",
+		"count": 1
+	}
+}
