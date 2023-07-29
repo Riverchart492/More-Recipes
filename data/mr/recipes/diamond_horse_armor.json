@@ -1,7 +1,10 @@
 {
 	"type": "crafting_shaped",
-  "group": "mr:horse_armor",
-	"pattern": ["1 1", "111", "121"],
+	"pattern": [
+		"1 1",
+		"111",
+		"121"
+	],
 	"key": {
 		"1": {
 			"item": "minecraft:diamond"
