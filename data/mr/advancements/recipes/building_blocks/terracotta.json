@@ -1,0 +1,48 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "mr:terracotta_from_stained_terracotta",
+            "mr:red_terracotta",
+            "mr:blue_terracotta",
+            "mr:cyan_terracotta",
+            "mr:gray_terracotta",
+            "mr:lime_terracotta",
+            "mr:pink_terracotta",
+            "mr:black_terracotta",
+            "mr:brown_terracotta",
+            "mr:green_terracotta",
+            "mr:white_terracotta",
+            "mr:orange_terracotta",
+            "mr:purple_terracotta",
+            "mr:yellow_terracotta",
+            "mr:magenta_terracotta",
+            "mr:light_blue_terracotta",
+            "mr:light_gray_terracotta"
+        ]
+    },
+    "criteria": {
+        "has_terracotta": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "#minecraft:terracotta"
+                    }
+                ]
+            }
+        },
+        "has_the_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "mr:terracotta_from_stained_terracotta"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_terracotta",
+            "has_the_recipe"
+        ]
+    ]
+}
