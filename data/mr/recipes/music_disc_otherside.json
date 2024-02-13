@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:music_disc_otherside"
+        },
+        {
+            "item": "minecraft:music_disc_blocks"
+        },
+        {
+            "item": "minecraft:music_disc_chrip"
+        }
+    ],
+    "result": {
+        "item": "minecraft:music_disc_otherside",
+        "count": 2
+    }
+}
