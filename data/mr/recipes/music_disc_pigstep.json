@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:music_disc_pigstep"
+        },
+        {
+            "item": "minecraft:music_disc_stal"
+        },
+        {
+            "item": "minecraft:music_disc_strad"
+        }
+    ],
+    "result": {
+        "item": "minecraft:music_disc_pigstep",
+        "count": 2
+    }
+}

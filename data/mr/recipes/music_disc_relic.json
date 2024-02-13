@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:music_disc_relic"
+        },
+        {
+            "item": "minecraft:music_disc_ward"
+        },
+        {
+            "item": "minecraft:music_disc_11"
+        }
+    ],
+    "result": {
+        "item": "minecraft:music_disc_relic",
+        "count": 2
+    }
+}
