@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shaped",
+	"pattern": ["111", "121", "111"],
+	"key": {
+		"1": {
+			"item": "minecraft:music_disc_5"
+		},
+		"2": {
+			"item": "minecraft:sculk"
+		}
+	},
+	"result": {
+		"item": "minecraft:disc_fragment_5",
+		"count": 1
+	}
+}
