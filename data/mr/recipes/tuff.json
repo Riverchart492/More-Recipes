@@ -1,0 +1,19 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"12",
+		"21"
+	],
+	"key": {
+		"1": {
+			"item": "minecraft:cobbled_deepslate"
+		},
+		"2": {
+			"item": "minecraft:quartz"
+		}
+	},
+	"result": {
+		"item": "minecraft:tuff",
+		"count": 2
+	}
+}
